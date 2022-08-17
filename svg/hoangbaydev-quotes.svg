@@ -22,7 +22,7 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .hoangbaydev-signature {
           font-size: 16px;
         }
 			</style>
@@ -30,8 +30,9 @@
 			<div class="container">
         <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
         <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">-Hoangbaydev Official-</div>
+        <div class="hoangbaydev-signature">- HoangBaydev Official -</div>
       </div>
 		</div>
 	</foreignObject>
 </svg>
+<!-- End of svg\hoangbaydev-quotes.svg -->
