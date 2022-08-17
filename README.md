@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/hbay02/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hoangbaydev-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hoangbaydev-instagram" />
   </a>
   <a href="mailto:hoangbay.it@gmail.com" target="top">
